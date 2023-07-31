@@ -1,0 +1,739 @@
+[
+  {
+    "file": "black_ant",
+    "pl": {
+      "color": "czarną",
+      "name": "mrówkę"
+    },
+    "en": {
+      "color": "black",
+      "name": "ant"
+    }
+  },
+  {
+    "file": "black_bat",
+    "pl": {
+      "color": "czarnego",
+      "name": "nietoperza"
+    },
+    "en": {
+      "color": "black",
+      "name": "bat"
+    }
+  },
+  {
+    "file": "black_car",
+    "pl": {
+      "color": "czarny",
+      "name": "samochód"
+    },
+    "en": {
+      "color": "black",
+      "name": "car"
+    }
+  },
+  {
+    "file": "black_cat",
+    "pl": {
+      "color": "czarnego",
+      "name": "kota"
+    },
+    "en": {
+      "color": "black",
+      "name": "cat"
+    }
+  },
+  {
+    "file": "black_dog",
+    "pl": {
+      "color": "czarnego",
+      "name": "psa"
+    },
+    "en": {
+      "color": "black",
+      "name": "dog"
+    }
+  },
+  {
+    "file": "blue_butterfly",
+    "pl": {
+      "color": "niebieskiego",
+      "name": "motyla"
+    },
+    "en": {
+      "color": "blue",
+      "name": "butterfly"
+    }
+  },
+  {
+    "file": "blue_fish",
+    "pl": {
+      "color": "niebieską",
+      "name": "rybę"
+    },
+    "en": {
+      "color": "blue",
+      "name": "fish"
+    }
+  },
+  {
+    "file": "blue_grape",
+    "pl": {
+      "color": "niebieskie",
+      "name": "winogrona"
+    },
+    "en": {
+      "color": "blue",
+      "name": "grape"
+    }
+  },
+  {
+    "file": "blue_whale",
+    "pl": {
+      "color": "niebieskiego",
+      "name": "wieloryba"
+    },
+    "en": {
+      "color": "blue",
+      "name": "whale"
+    }
+  },
+  {
+    "file": "brown_ball",
+    "pl": {
+      "color": "brązową",
+      "name": "piłkę"
+    },
+    "en": {
+      "color": "brown",
+      "name": "ball"
+    }
+  },
+  {
+    "file": "brown_bear",
+    "pl": {
+      "color": "brązowego",
+      "name": "niedzwiedzia"
+    },
+    "en": {
+      "color": "brown",
+      "name": "bear"
+    }
+  },
+  {
+    "file": "brown_camel",
+    "pl": {
+      "color": "brązowego",
+      "name": "wilbłąda"
+    },
+    "en": {
+      "color": "brown",
+      "name": "camel"
+    }
+  },
+  {
+    "file": "brown_cookie",
+    "pl": {
+      "color": "brązowe",
+      "name": "ciastko"
+    },
+    "en": {
+      "color": "brown",
+      "name": "cookie"
+    }
+  },
+  {
+    "file": "brown_dog",
+    "pl": {
+      "color": "brązowego",
+      "name": "psa"
+    },
+    "en": {
+      "color": "brown",
+      "name": "dog"
+    }
+  },
+  {
+    "file": "brown_giraffe",
+    "pl": {
+      "color": "brązową",
+      "name": "żyrafę"
+    },
+    "en": {
+      "color": "brown",
+      "name": "giraffe"
+    }
+  },
+  {
+    "file": "brown_hedgehog",
+    "pl": {
+      "color": "brązowego",
+      "name": "jeża"
+    },
+    "en": {
+      "color": "brown",
+      "name": "hedgehog"
+    }
+  },
+  {
+    "file": "brown_horse",
+    "pl": {
+      "color": "brązowego",
+      "name": "konia"
+    },
+    "en": {
+      "color": "brown",
+      "name": "horse"
+    }
+  },
+  {
+    "file": "brown_monkey",
+    "pl": {
+      "color": "brązową",
+      "name": "małpę"
+    },
+    "en": {
+      "color": "brown",
+      "name": "monkey"
+    }
+  },
+  {
+    "file": "brown_snail",
+    "pl": {
+      "color": "brązowego",
+      "name": "ślimaka"
+    },
+    "en": {
+      "color": "brown",
+      "name": "snail"
+    }
+  },
+  {
+    "file": "gray_cat",
+    "pl": {
+      "color": "szarego",
+      "name": "kota"
+    },
+    "en": {
+      "color": "gray",
+      "name": "cat"
+    }
+  },
+  {
+    "file": "gray_donkey",
+    "pl": {
+      "color": "szarego",
+      "name": "osła"
+    },
+    "en": {
+      "color": "gray",
+      "name": "donkey"
+    }
+  },
+  {
+    "file": "gray_elephant",
+    "pl": {
+      "color": "szarego",
+      "name": "słonia"
+    },
+    "en": {
+      "color": "gray",
+      "name": "elephant"
+    }
+  },
+  {
+    "file": "gray_mouse",
+    "pl": {
+      "color": "szarą",
+      "name": "mysz"
+    },
+    "en": {
+      "color": "gray",
+      "name": "mouse"
+    }
+  },
+  {
+    "file": "gray_seal",
+    "pl": {
+      "color": "szarą",
+      "name": "fokę"
+    },
+    "en": {
+      "color": "gray",
+      "name": "seal"
+    }
+  },
+  {
+    "file": "gray_wolf",
+    "pl": {
+      "color": "szarego",
+      "name": "wilka"
+    },
+    "en": {
+      "color": "gray",
+      "name": "wolf"
+    }
+  },
+  {
+    "file": "green_crocodile",
+    "pl": {
+      "color": "zielonego",
+      "name": "krokodyla"
+    },
+    "en": {
+      "color": "green",
+      "name": "crocodile"
+    }
+  },
+  {
+    "file": "green_cucumber",
+    "pl": {
+      "color": "zielonego",
+      "name": "ogórka"
+    },
+    "en": {
+      "color": "green",
+      "name": "cucumber"
+    }
+  },
+  {
+    "file": "green_dragon",
+    "pl": {
+      "color": "zielonego",
+      "name": "smoka"
+    },
+    "en": {
+      "color": "green",
+      "name": "dragon"
+    }
+  },
+  {
+    "file": "green_frog",
+    "pl": {
+      "color": "zieloną",
+      "name": "żabę"
+    },
+    "en": {
+      "color": "green",
+      "name": "frog"
+    }
+  },
+  {
+    "file": "green_grape",
+    "pl": {
+      "color": "zielone",
+      "name": "winogrona"
+    },
+    "en": {
+      "color": "green",
+      "name": "grape"
+    }
+  },
+  {
+    "file": "green_lettuce",
+    "pl": {
+      "color": "zieloną",
+      "name": "sałatę"
+    },
+    "en": {
+      "color": "green",
+      "name": "lettuce"
+    }
+  },
+  {
+    "file": "green_turtle",
+    "pl": {
+      "color": "zielonego",
+      "name": "żółwia"
+    },
+    "en": {
+      "color": "green",
+      "name": "turtle"
+    }
+  },
+  {
+    "file": "orange_carrot",
+    "pl": {
+      "color": "pomarańczową",
+      "name": "marchewkę"
+    },
+    "en": {
+      "color": "orange",
+      "name": "carrot"
+    }
+  },
+  {
+    "file": "orange_fish",
+    "pl": {
+      "color": "pomarańczową",
+      "name": "rybę"
+    },
+    "en": {
+      "color": "orange",
+      "name": "fish"
+    }
+  },
+  {
+    "file": "orange_peach",
+    "pl": {
+      "color": "pomarańczową",
+      "name": "brzoskwinię"
+    },
+    "en": {
+      "color": "orange",
+      "name": "peach"
+    }
+  },
+  {
+    "file": "orange_tiger",
+    "pl": {
+      "color": "pomarańczowego",
+      "name": "tygrysa"
+    },
+    "en": {
+      "color": "orange",
+      "name": "tiger"
+    }
+  },
+  {
+    "file": "pink_butterfly",
+    "pl": {
+      "color": "różowego",
+      "name": "motyla"
+    },
+    "en": {
+      "color": "pink",
+      "name": "butterfly"
+    }
+  },
+  {
+    "file": "pink_pig",
+    "pl": {
+      "color": "różową",
+      "name": "świnię"
+    },
+    "en": {
+      "color": "pink",
+      "name": "pig"
+    }
+  },
+  {
+    "file": "red_apple",
+    "pl": {
+      "color": "czerwone",
+      "name": "jabłko"
+    },
+    "en": {
+      "color": "red",
+      "name": "apple"
+    }
+  },
+  {
+    "file": "red_bull",
+    "pl": {
+      "color": "czerwonego",
+      "name": "byka"
+    },
+    "en": {
+      "color": "red",
+      "name": "bull"
+    }
+  },
+  {
+    "file": "red_cherry",
+    "pl": {
+      "color": "czerwoną",
+      "name": "wiśnię"
+    },
+    "en": {
+      "color": "red",
+      "name": "cherry"
+    }
+  },
+  {
+    "file": "red_crawfish",
+    "pl": {
+      "color": "czerwonego",
+      "name": "raka"
+    },
+    "en": {
+      "color": "red",
+      "name": "crawfish"
+    }
+  },
+  {
+    "file": "red_dragon",
+    "pl": {
+      "color": "czerwonego",
+      "name": "smoka"
+    },
+    "en": {
+      "color": "red",
+      "name": "dragon"
+    }
+  },
+  {
+    "file": "red_fish",
+    "pl": {
+      "color": "czerwoną",
+      "name": "rybę"
+    },
+    "en": {
+      "color": "red",
+      "name": "fish"
+    }
+  },
+  {
+    "file": "red_heart",
+    "pl": {
+      "color": "czerwone",
+      "name": "serce"
+    },
+    "en": {
+      "color": "red",
+      "name": "heart"
+    }
+  },
+  {
+    "file": "red_ladybird",
+    "pl": {
+      "color": "czerwoną",
+      "name": "biedronkę"
+    },
+    "en": {
+      "color": "red",
+      "name": "ladybird"
+    }
+  },
+  {
+    "file": "red_strawberry",
+    "pl": {
+      "color": "czerwoną",
+      "name": "truskawkę"
+    },
+    "en": {
+      "color": "red",
+      "name": "strawberry"
+    }
+  },
+  {
+    "file": "red_tomato",
+    "pl": {
+      "color": "czerwony",
+      "name": "pomidor"
+    },
+    "en": {
+      "color": "red",
+      "name": "tomato"
+    }
+  },
+  {
+    "file": "red_watermelon",
+    "pl": {
+      "color": "czerwonego",
+      "name": "arbuza"
+    },
+    "en": {
+      "color": "red",
+      "name": "watermelon"
+    }
+  },
+  {
+    "file": "violet_butterfly",
+    "pl": {
+      "color": "fioletowego",
+      "name": "motyla"
+    },
+    "en": {
+      "color": "violet",
+      "name": "butterfly"
+    }
+  },
+  {
+    "file": "violet_grape",
+    "pl": {
+      "color": "fioletowe",
+      "name": "winogrona"
+    },
+    "en": {
+      "color": "violet",
+      "name": "grape"
+    }
+  },
+  {
+    "file": "violet_octopus",
+    "pl": {
+      "color": "fioletową",
+      "name": "ośmiornicę"
+    },
+    "en": {
+      "color": "violet",
+      "name": "octopus"
+    }
+  },
+  {
+    "file": "violet_plum",
+    "pl": {
+      "color": "fioletową",
+      "name": "śliwkę"
+    },
+    "en": {
+      "color": "violet",
+      "name": "plum"
+    }
+  },
+  {
+    "file": "white_camel",
+    "pl": {
+      "color": "białego",
+      "name": "wielbłąda"
+    },
+    "en": {
+      "color": "white",
+      "name": "camel"
+    }
+  },
+  {
+    "file": "white_dress",
+    "pl": {
+      "color": "białą",
+      "name": "suknię"
+    },
+    "en": {
+      "color": "white",
+      "name": "dress"
+    }
+  },
+  {
+    "file": "white_rabbit",
+    "pl": {
+      "color": "białego",
+      "name": "królika"
+    },
+    "en": {
+      "color": "white",
+      "name": "rabbit"
+    }
+  },
+  {
+    "file": "white_sheep",
+    "pl": {
+      "color": "białą",
+      "name": "owcę"
+    },
+    "en": {
+      "color": "white",
+      "name": "sheep"
+    }
+  },
+  {
+    "file": "white_snowman",
+    "pl": {
+      "color": "białego",
+      "name": "bałwana"
+    },
+    "en": {
+      "color": "white",
+      "name": "snowman"
+    }
+  },
+  {
+    "file": "yellow_banana",
+    "pl": {
+      "color": "żółtego",
+      "name": "banana"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "banana"
+    }
+  },
+  {
+    "file": "yellow_chicken",
+    "pl": {
+      "color": "żółtego",
+      "name": "kurczaka"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "chicken"
+    }
+  },
+  {
+    "file": "yellow_dragon",
+    "pl": {
+      "color": "żółtego",
+      "name": "smoka"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "dragon"
+    }
+  },
+  {
+    "file": "yellow_fish",
+    "pl": {
+      "color": "żółtą",
+      "name": "rybę"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "fish"
+    }
+  },
+  {
+    "file": "yellow_giraffe",
+    "pl": {
+      "color": "żółtą",
+      "name": "żyrafę"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "giraffe"
+    }
+  },
+  {
+    "file": "yellow_lemon",
+    "pl": {
+      "color": "żółtą",
+      "name": "cytrynę"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "lemon"
+    }
+  },
+  {
+    "file": "yellow_lion",
+    "pl": {
+      "color": "żółtego",
+      "name": "lwa"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "lion"
+    }
+  },
+  {
+    "file": "yellow_pear",
+    "pl": {
+      "color": "żółtą",
+      "name": "gruszkę"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "pear"
+    }
+  },
+  {
+    "file": "yellow_sun",
+    "pl": {
+      "color": "żółte",
+      "name": "słońce"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "sun"
+    }
+  }
+]
