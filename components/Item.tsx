@@ -16,25 +16,21 @@ const Item: FC<Props> = ({ item, isCorrect, isClicked, onClick }) => {
   };
 
   return (
-    <div className={`relative w-1/4 hover:bg-gray-50 mb-5 ${classes.item}`}>
-      <button className="relative w-full h-full" onClick={onItemClick}>
-        <Image
+    <div className={`w-1/4`}>
+      <button
+        className={`${classes.itemButton} relative w-full border hover:border-2 border-gray-300 rounded-lg hover:bg-gray-50`}
+        onClick={onItemClick}
+      >
+        <img
           src={`/game/${item.file}.svg`}
-          alt="Blue whale"
-          // fill
-          width={100}
-          height={100}
-          layout="responsive"
-          priority
-          className="border hover:border-2 border-gray-300 rounded-lg p-5"
+          alt={`${item.en.color} ${item.en.name}`}
+          className={"absolute w-full h-full p-5"}
         />
         {isClicked && (
-          <Image
+          <img
             src={isCorrect ? "ok.svg" : "cross.svg"}
             alt={isCorrect ? "OK" : "Red cross"}
-            fill
-            priority
-            className="border hover:border-2 border-gray-300 rounded-lg p-5"
+            className={"absolute w-full h-full p-5"}
           />
         )}
       </button>

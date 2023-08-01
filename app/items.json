@@ -22,6 +22,17 @@
     }
   },
   {
+    "file": "black_bomb",
+    "pl": {
+      "color": "czarną",
+      "name": "bombę"
+    },
+    "en": {
+      "color": "black",
+      "name": "bomb"
+    }
+  },
+  {
     "file": "black_car",
     "pl": {
       "color": "czarny",
@@ -52,6 +63,17 @@
     "en": {
       "color": "black",
       "name": "dog"
+    }
+  },
+  {
+    "file": "blue_bomb",
+    "pl": {
+      "color": "niebieską",
+      "name": "bombę"
+    },
+    "en": {
+      "color": "blue",
+      "name": "bomb"
     }
   },
   {
@@ -407,6 +429,28 @@
     }
   },
   {
+    "file": "pink_dinosaur",
+    "pl": {
+      "color": "różowego",
+      "name": "dinozaura"
+    },
+    "en": {
+      "color": "pink",
+      "name": "dinosaur"
+    }
+  },
+  {
+    "file": "pink_fairy",
+    "pl": {
+      "color": "różową",
+      "name": "wróżkę"
+    },
+    "en": {
+      "color": "pink",
+      "name": "fairy"
+    }
+  },
+  {
     "file": "pink_pig",
     "pl": {
       "color": "różową",
@@ -437,6 +481,17 @@
     "en": {
       "color": "red",
       "name": "bull"
+    }
+  },
+  {
+    "file": "red_candy",
+    "pl": {
+      "color": "czerwonego",
+      "name": "cukierka"
+    },
+    "en": {
+      "color": "red",
+      "name": "candy"
     }
   },
   {
@@ -605,6 +660,17 @@
     }
   },
   {
+    "file": "white_horse",
+    "pl": {
+      "color": "białego",
+      "name": "konia"
+    },
+    "en": {
+      "color": "white",
+      "name": "horse"
+    }
+  },
+  {
     "file": "white_rabbit",
     "pl": {
       "color": "białego",
@@ -660,6 +726,17 @@
     }
   },
   {
+    "file": "yellow_crown",
+    "pl": {
+      "color": "żółtą",
+      "name": "koronę"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "crown"
+    }
+  },
+  {
     "file": "yellow_dragon",
     "pl": {
       "color": "żółtego",
@@ -693,6 +770,17 @@
     }
   },
   {
+    "file": "yellow_ice_cream",
+    "pl": {
+      "color": "żółtego",
+      "name": "loda"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "ice cream"
+    }
+  },
+  {
     "file": "yellow_lemon",
     "pl": {
       "color": "żółtą",
@@ -723,6 +811,17 @@
     "en": {
       "color": "yellow",
       "name": "pear"
+    }
+  },
+  {
+    "file": "yellow_pencil",
+    "pl": {
+      "color": "żółty",
+      "name": "ołówek"
+    },
+    "en": {
+      "color": "yellow",
+      "name": "pencil"
     }
   },
   {
