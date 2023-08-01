@@ -8,10 +8,10 @@ type Props = {
 const Speaker: FC<Props> = ({ onClick }) => {
   return (
     <button
-      className="relative w-10 h-10 border border-gray-300 rounded-sm"
+      className="relative w-9 h-9 border border-gray-300 rounded-md"
       onClick={onClick}
     >
-      <Image src="speaker.svg" alt="Speaker" fill />
+      <Image src="speaker.svg" alt="Speaker" fill className="p-0.5" />
     </button>
   );
 };
