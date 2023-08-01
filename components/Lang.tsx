@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { FC, MouseEventHandler } from "react";
 
 type Props = {
@@ -7,11 +8,12 @@ type Props = {
 
 const Lang: FC<Props> = ({ language, onClick }) => {
   return (
-    <button
-      className="py-1 px-2.5 rounded-md border border-gray-300"
-      onClick={onClick}
-    >
-      {language === "pl" ? "Lang: en" : "Język: pl"}
+    <button className="relative w-12 h-12" onClick={onClick}>
+      {language === "pl" ? (
+        <Image src="us.svg" alt="USA flag" title="Zmień język" fill />
+      ) : (
+        <Image src="pl.svg" alt="Polish flag" title="Change language" fill />
+      )}
     </button>
   );
 };

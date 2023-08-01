@@ -363,6 +363,17 @@
     }
   },
   {
+    "file": "green_parrot",
+    "pl": {
+      "color": "zieloną",
+      "name": "papugę"
+    },
+    "en": {
+      "color": "green",
+      "name": "parrot"
+    }
+  },
+  {
     "file": "green_turtle",
     "pl": {
       "color": "zielonego",
@@ -404,6 +415,17 @@
     "en": {
       "color": "orange",
       "name": "peach"
+    }
+  },
+  {
+    "file": "orange_pumpkin",
+    "pl": {
+      "color": "pomarańczową",
+      "name": "dynię"
+    },
+    "en": {
+      "color": "orange",
+      "name": "pumpkin"
     }
   },
   {
@@ -459,6 +481,17 @@
     "en": {
       "color": "pink",
       "name": "pig"
+    }
+  },
+  {
+    "file": "pink_unicorn",
+    "pl": {
+      "color": "różowego",
+      "name": "jednorożca"
+    },
+    "en": {
+      "color": "pink",
+      "name": "unicorn"
     }
   },
   {
@@ -558,6 +591,17 @@
     "en": {
       "color": "red",
       "name": "ladybird"
+    }
+  },
+  {
+    "file": "red_raspberry",
+    "pl": {
+      "color": "czerwoną",
+      "name": "malinę"
+    },
+    "en": {
+      "color": "red",
+      "name": "raspberry"
     }
   },
   {

@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 
 import Lang from "@/components/Lang";
 import Item from "@/components/Item";
+import Speaker from "@/components/Speaker";
 
 import items from "./items.json";
 
@@ -48,18 +49,10 @@ export default function Home() {
     }
     const newDrawnItems = newDrawnIndexes.map((itemIndex, i) => ({
       ...items[itemIndex],
-      isCorrect: newPickedIndex === i,
-      isClicked: false,
     }));
     setDrawnItems(newDrawnItems);
 
-    const speech = new SpeechSynthesisUtterance();
-    speech.lang = language;
-    speech.text = getFindText(newDrawnItems, newPickedIndex);
-    speech.rate = 0.75; // Prędkość mówienia
-    // speech.pitch = 2;
-
-    window.speechSynthesis.speak(speech);
+    speak(newDrawnItems, newPickedIndex);
   };
 
   const onItemClick = (i: number) => {
@@ -73,6 +66,20 @@ export default function Home() {
     }
   };
 
+  const speak = (item: IItem[], itemIndex: null | number) => {
+    const speech = new SpeechSynthesisUtterance();
+    speech.lang = language;
+    speech.text = getFindText(item, itemIndex);
+    speech.rate = 0.75; // Prędkość mówienia
+    // speech.pitch = 2;
+
+    window.speechSynthesis.speak(speech);
+  };
+
+  const onSpeakerClick = () => {
+    speak(drawnItems, pickedItem);
+  };
+
   return (
     <main className="w-full h-screen">
       <div className="flex flex-col h-full">
@@ -80,6 +87,7 @@ export default function Home() {
           <p className="flex-1 text-center text-lg">
             {getFindText(drawnItems, pickedItem)}
           </p>
+          <Speaker onClick={onSpeakerClick} />
           <Lang language={language} onClick={onLangChangeClick} />
         </div>
         <div className="flex flex-1 justify-evenly">
@@ -97,3 +105,6 @@ export default function Home() {
     </main>
   );
 }
+
+//TODO:
+//Speaker near
